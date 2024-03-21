@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sw0rdd&label=Profile%20views&color=0e75b6&style=flat" alt="sw0rdd" /> </p>
 
 
-<h4 align="center">I'm 26 years old and in my final year of Computer Engineering at Linnaeus University in Växjö. Currently, I'm immersed in my thesis project and looking forward to graduating this summer. Throughout my university journey, much of our work was conducted on GitLab. I'm in the process of transitioning my projects and work to GitHub but haven't completed the migration just yet.</h4>
+<h4 align="center">I'm 26 years old and in my final year of Computer Engineering at Linnaeus University in Växjö. Currently, I'm immersed in my thesis project and looking forward to graduating this summer.<br><br> Throughout my university journey, much of our work was conducted on GitLab. I'm in the process of transitioning my projects and work to GitHub but haven't completed the migration just yet.</h4>
 
 
 
