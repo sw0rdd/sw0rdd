@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif</h1>
-<h3 align="center">I am an ambitious software engineer with a strong passion for computers and IT, dedicated to continuous learning and seeking new challenges.</h3>
+<h3 align="center">Ambitious software engineer driven by curiosity, constant growth, and better solutions..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sw0rdd&label=Profile%20views&color=0e75b6&style=flat" alt="sw0rdd" /> </p>
